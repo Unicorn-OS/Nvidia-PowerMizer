@@ -7,3 +7,6 @@ https://www.pcsuggest.com/linux-power-management-guide/
 
 ## Debian
 https://www.pcsuggest.com/install-and-configure-nvidia-optimus-with-bumblebee-in-debian/
+
+## Ubuntu
+https://www.pcsuggest.com/nvidia-optimus-ubuntu/
